@@ -1,0 +1,3 @@
+# ksh-homework
+
+read me
